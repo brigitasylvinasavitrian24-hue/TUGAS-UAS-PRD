@@ -1,4 +1,4 @@
-Product Requirements Document (PRD)
+
 
 Santara Hotel Online Booking System
 
@@ -24,7 +24,6 @@ Problem Statement
 
 Proses reservasi hotel yang masih dilakukan secara manual sering menimbulkan berbagai kendala, seperti kesalahan pencatatan data, keterlambatan konfirmasi reservasi, serta kesulitan dalam memantau ketersediaan kamar secara real-time. Santara Hotel Online Booking System dirancang untuk meningkatkan efisiensi operasional hotel sekaligus memberikan pengalaman pemesanan yang lebih praktis dan nyaman bagi pelanggan.
 
-⸻
 
 2. User Personas
 
@@ -69,7 +68,6 @@ Kebutuhan:
 * Memantau pendapatan hotel
 * Menganalisis tren pemesanan
 
-⸻
 
 3. Core Features
 
@@ -121,7 +119,6 @@ Manajemen hotel dapat melihat:
 * Pendapatan hotel
 * Statistik operasional hotel
 
-⸻
 
 4. Technology Stack
 
@@ -160,7 +157,6 @@ Additional Packages
 * Laravel Scheduler
 * Laravel Excel
 
-⸻
 
 5. Database Design & Relationships
 
@@ -258,7 +254,6 @@ Relationship
 
 * Many-to-Many antara Booking dan HotelService
 
-⸻
 
 6. User Flows
 
@@ -274,7 +269,6 @@ C. Admin Room Management Flow
 
 Login Admin → Dashboard → Kelola Kamar → Tambah/Edit Data Kamar → Update Status Kamar → Data Tersimpan dan Ditampilkan di Website
 
-⸻
 
 7. Out of Scope (MVP Exclusions)
 
